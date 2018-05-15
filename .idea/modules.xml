@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Graphics2D -Empty.iml" filepath="$PROJECT_DIR$/Graphics2D -Empty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-MOOC-Graphics-2D-Empty.iml" filepath="$PROJECT_DIR$/Android-MOOC-Graphics-2D-Empty.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
